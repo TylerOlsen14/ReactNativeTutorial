@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {AppRegistry, Platform, StyleSheet, Text, View} from 'react-native';
-import Component4 from './app/components/component4/Component4'
+import Component5 from './app/components/component5/Component5'
 
 // type Props = {};
 // export default class MyApp extends Component<Props> {
@@ -12,7 +12,7 @@ export default class MyApp extends Component {
       //   <Text style={styles.welcome}>There ain't no fun and games!</Text>
       //   <Text style={styles.instructions}>To get started, edit App.js</Text>
       //   <Text style={styles.instructions}>{instructions}</Text> */}
-        <Component4 />
+        <Component5 />
       </View>
     );
   }
